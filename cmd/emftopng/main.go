@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/pzinovkin/emf"
+	"github.com/fcce/emf"
 )
 
 const VERSION = "0.2.0"

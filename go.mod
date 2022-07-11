@@ -1,4 +1,4 @@
-module github.com/pzinovkin/emf
+module github.com/fcce/emf
 
 go 1.17
 
